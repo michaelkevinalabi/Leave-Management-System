@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>start_date</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-08 01:54:19</sys_created_on>
+        <sys_id>243e50442fd220102d2e8d1df699b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>start_date</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573546_lms">1f543e832f4e20102d2e8d1df699b62c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1f543e832f4e20102d2e8d1df699b62c</sys_scope>
+        <sys_update_name>sys_ui_policy_action_243e50442fd220102d2e8d1df699b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 01:54:19</sys_updated_on>
+        <table>x_573546_lms_leave_request</table>
+        <ui_policy display_value="Make Fields Mandatory">5dcd1c042fd220102d2e8d1df699b67e</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

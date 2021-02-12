@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="approval" table="x_573546_lms_leave_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <name>x_573546_lms_leave_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-07 20:10:23</sys_created_on>
+            <sys_id>6b8f83b32f0220102d2e8d1df699b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>approval</sys_name>
+            <sys_package display_value="Leave Management System" source="x_573546_lms">1f543e832f4e20102d2e8d1df699b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">1f543e832f4e20102d2e8d1df699b62c</sys_scope>
+            <sys_update_name>sys_choice_x_573546_lms_leave_request_approval</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-07 20:10:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_573546_lms_leave_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-07 20:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a4f43b32f0220102d2e8d1df699b6ff</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-07 20:10:31</sys_updated_on>
+            <value>approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Yet Requested</label>
+            <language>en</language>
+            <name>x_573546_lms_leave_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-07 20:10:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>338f4f732f0220102d2e8d1df699b649</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-07 20:11:02</sys_updated_on>
+            <value>nyr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_573546_lms_leave_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-07 20:11:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89af83b32f0220102d2e8d1df699b6fa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-07 20:11:23</sys_updated_on>
+            <value>rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_573546_lms_leave_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-07 20:11:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3bf4fb32f0220102d2e8d1df699b661</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-07 20:11:44</sys_updated_on>
+            <value>requested</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

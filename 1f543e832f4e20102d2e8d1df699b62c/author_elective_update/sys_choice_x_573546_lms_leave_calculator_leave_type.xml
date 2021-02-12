@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="leave_type" table="x_573546_lms_leave_calculator" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>leave_type</element>
+            <name>x_573546_lms_leave_calculator</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-07 20:37:22</sys_created_on>
+            <sys_id>3ab553f72f0220102d2e8d1df699b663</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>leave_type</sys_name>
+            <sys_package display_value="Leave Management System" source="x_573546_lms">1f543e832f4e20102d2e8d1df699b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">1f543e832f4e20102d2e8d1df699b62c</sys_scope>
+            <sys_update_name>sys_choice_x_573546_lms_leave_calculator_leave_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-07 20:37:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maternity Leave</label>
+            <language>en</language>
+            <name>x_573546_lms_leave_calculator</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 14:04:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba554b002f9a20102d2e8d1df699b691</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 14:05:00</sys_updated_on>
+            <value>ml</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Study Leave</label>
+            <language>en</language>
+            <name>x_573546_lms_leave_calculator</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-08 14:05:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c858b002f9a20102d2e8d1df699b68e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 14:05:29</sys_updated_on>
+            <value>sl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Casual Leave</label>
+            <language>en</language>
+            <name>x_573546_lms_leave_calculator</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-07 20:37:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>feb553f72f0220102d2e8d1df699b662</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-07 20:37:22</sys_updated_on>
+            <value>cl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sick Leave</label>
+            <language>en</language>
+            <name>x_573546_lms_leave_calculator</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-07 20:37:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>beb553f72f0220102d2e8d1df699b6a3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-08 14:02:17</sys_updated_on>
+            <value>sil</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

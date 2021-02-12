@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin,user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 10:20:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d7557e832f4e20102d2e8d1df699b638</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Leave Management System</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Leave Management System" source="x_573546_lms">1f543e832f4e20102d2e8d1df699b62c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">1f543e832f4e20102d2e8d1df699b62c</sys_scope>
+        <sys_update_name>sys_app_application_d7557e832f4e20102d2e8d1df699b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 08:59:30</sys_updated_on>
+        <title>Leave Management System</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
